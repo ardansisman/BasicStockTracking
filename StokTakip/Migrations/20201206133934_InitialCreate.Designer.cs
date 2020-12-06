@@ -9,7 +9,7 @@ using StokTakip.Entities.Context;
 namespace StokTakip.Migrations
 {
     [DbContext(typeof(StokContext))]
-    [Migration("20201205173142_InitialCreate")]
+    [Migration("20201206133934_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

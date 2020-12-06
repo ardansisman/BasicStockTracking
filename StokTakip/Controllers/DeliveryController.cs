@@ -83,7 +83,7 @@ namespace StokTakip.Controllers
                 var deliveryDB = _deliveryService.GetById(delivery.Id);
                 if (delivery.Piece - deliveryDB.Piece < 0)
                 {
-                    product.Stock += (delivery.Piece - deliveryDB.Piece);
+                    product.Stock += (deliveryDB.Piece - delivery.Piece);
                 }
                 else
                 {

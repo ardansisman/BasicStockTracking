@@ -450,4 +450,4 @@ C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Deb
 C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.dll
 C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.pdb
 C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.genruntimeconfig.cache
-C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\scopedcss\bundle\StokTakip.styles.css
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
