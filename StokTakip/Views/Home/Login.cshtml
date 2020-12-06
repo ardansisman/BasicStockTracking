@@ -1,0 +1,58 @@
+﻿@model UserModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giriş</title>
+   
+    <link href="~/css/simplex.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <form id="formLoginAJAX" asp-action="Login" method="POST"
+          class="w-35 mt-5 p-3 mx-auto shadow">
+
+        <div class="form-group">
+            <label for="UserName">Kullanıcı Adı: </label>
+            <input asp-for="Username" id="Username" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="Password">Şifre :</label>
+            <input asp-for="Password" type="password" id="Password" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <button class="buttonload btn btn-info btn-block" id="btnGonder" data-url="@Url.Action("Login","Home")">
+                <i class="fa fa-spinner fa-spin"></i>Giriş Yap
+            </button>
+        </div>
+
+        <div class="spinner-border modal-ajax-start" style="display:none; margin-left:47%"></div>
+    </form>
+
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+
+    <!-- Core plugin JavaScript-->
+    <script src="~/js/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.js"></script>
+    <script src="~/js/SignIn.js" asp-append-version="true"></script>
+</body>
+
+</html>

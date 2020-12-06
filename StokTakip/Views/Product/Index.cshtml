@@ -1,0 +1,51 @@
+﻿@model List<Product>
+
+<a asp-action="Create" asp-controller="Product" class="btn btn-outline-info btn-sm my-2">
+    Yeni
+    Ürün
+</a>
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-sm" id="dataTable" width="100%" cellspacing="0">
+
+            <thead>
+                <tr>
+                    <th>Ad</th>
+                    <th>Stok Adet/kg</th>
+                    <th>İşlem</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Stock</td>
+                        <td>
+                            <a asp-action="Update" asp-controller="Product" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                            <a asp-action="Delete" asp-controller="Product" asp-route-id="@product.Id" class="btn btn-primary btn-sm ">Sil</a>
+                            <button onclick="StokUpdate(@product.Id)" class="btn btn-dark btn-sm ">Stok Girişi Yap</button>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+       
+    </div>
+</div>
+
+<!-- Bootstrap core JavaScript-->
+<script src="~/js/jquery.min.js"></script>
+<script src="~/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="~/js/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="~/js/sb-admin-2.js"></script>
+<script src="~/js/site.js"></script>
+<script type="text/javascript"></script>
+
+
+

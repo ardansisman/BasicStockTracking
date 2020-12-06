@@ -1,0 +1,41 @@
+﻿@model List<DeliveryListModel>
+
+<a asp-action="Create" asp-controller="Delivery"  class="btn btn-outline-info btn-sm my-2">
+    Yeni
+    Teslimat
+</a>
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-sm" id="dataTable" width="100%" cellspacing="0">
+
+            <thead>
+                <tr>
+                    <th>Şube Adı</th>
+                    <th>Ürün Adı</th>
+                    <th>Gönderilen Adet/kg</th>
+                    <th>Gönderim Tarihi</th>
+                    <th>İşlem</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var stock in Model)
+                {
+                <tr>
+                    <td>@stock.BranchName</td>
+                    <td>@stock.ProductName</td>
+                    <td>@stock.Piece</td>
+                    <td>@stock.InvoiceDate</td>
+                    <td>
+                        <a asp-action="Update" asp-controller="Delivery" asp-route-id="@stock.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                        <a asp-action="Delete" asp-controller="Delivery" asp-route-id="@stock.Id" class="btn btn-primary btn-sm BtnCompanyDelete">Sil</a>
+                    </td>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+

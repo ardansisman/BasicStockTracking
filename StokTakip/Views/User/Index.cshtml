@@ -1,0 +1,35 @@
+﻿@model List<User>
+
+<a asp-action="Create" asp-controller="User"  class="btn btn-outline-info btn-sm my-2">
+    Yeni
+    Kullanıcı
+</a>
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-sm" id="dataTable" width="100%" cellspacing="0">
+
+            <thead>
+                <tr>
+                    <th>Ad</th>
+                    <th>İşlem</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Username</td>
+                        <td>
+                            <a asp-action="Update" asp-controller="User" asp-route-id="@user.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                            <a asp-action="Delete" asp-controller="User" asp-route-id="@user.Id"  class="btn btn-primary btn-sm">Sil</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+

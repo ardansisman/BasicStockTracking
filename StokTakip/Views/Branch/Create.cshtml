@@ -1,0 +1,124 @@
+﻿@model Branch
+
+<form method="post" asp-action="Create" class="p-3">
+    <div class="row">
+        <!-- Content Column -->
+        <div class="col-12 mb-4">
+            <!-- Project Card Example -->
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Şube Ekle </h6>
+                </div>
+                <div class="card-body">
+                    <div class="form-group row">
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Şube Adı:</h4>
+                            <input class="form-control" required asp-for="Name">
+                        </div>
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Şehir:</h4>
+                            <select class="form-control" required asp-for="City">
+                                <option value="0">------</option>
+                                <option >Adana</option>
+                                <option>Adıyaman</option>
+                                <option>Afyonkarahisar</option>
+                                <option>Ağrı</option>
+                                <option>Amasya</option>
+                                <option>Ankara</option>
+                                <option>Antalya</option>
+                                <option>Artvin</option>
+                                <option>Aydın</option>
+                                <option>Balıkesir</option>
+                                <option>Bilecik</option>
+                                <option>Bingöl</option>
+                                <option>Bitlis</option>
+                                <option>Bolu</option>
+                                <option>Burdur</option>
+                                <option>Bursa</option>
+                                <option>Çanakkale</option>
+                                <option>Çankırı</option>
+                                <option>Çorum</option>
+                                <option>Denizli</option>
+                                <option>Diyarbakır</option>
+                                <option>Edirne</option>
+                                <option>Elazığ</option>
+                                <option>Erzincan</option>
+                                <option>Erzurum</option>
+                                <option>Eskişehir</option>
+                                <option>Gaziantep</option>
+                                <option>Giresun</option>
+                                <option>Gümüşhane</option>
+                                <option>Hakkâri</option>
+                                <option>Hatay</option>
+                                <option>Isparta</option>
+                                <option>Mersin</option>
+                                <option>İstanbul</option>
+                                <option>İzmir</option>
+                                <option>Kars</option>
+                                <option>Kastamonu</option>
+                                <option>Kayseri</option>
+                                <option>Kırklareli</option>
+                                <option>Kırşehir</option>
+                                <option>Kocaeli</option>
+                                <option>Konya</option>
+                                <option>Kütahya</option>
+                                <option>Malatya</option>
+                                <option>Manisa</option>
+                                <option>Kahramanmaraş</option>
+                                <option>Mardin</option>
+                                <option>Muğla</option>
+                                <option>Muş</option>
+                                <option>Nevşehir</option>
+                                <option>Niğde</option>
+                                <option>Ordu</option>
+                                <option>Rize</option>
+                                <option>Sakarya</option>
+                                <option>Samsun</option>
+                                <option>Siirt</option>
+                                <option>Sinop</option>
+                                <option>Sivas</option>
+                                <option>Tekirdağ</option>
+                                <option>Tokat</option>
+                                <option>Trabzon</option>
+                                <option>Tunceli</option>
+                                <option>Şanlıurfa</option>
+                                <option>Uşak</option>
+                                <option>Van</option>
+                                <option>Yozgat</option>
+                                <option>Zonguldak</option>
+                                <option>Aksaray</option>
+                                <option>Bayburt</option>
+                                <option>Karaman</option>
+                                <option>Kırıkkale</option>
+                                <option>Batman</option>
+                                <option>Şırnak</option>
+                                <option>Bartın</option>
+                                <option>Ardahan</option>
+                                <option>Iğdır</option>
+                                <option>Yalova</option>
+                                <option>Karabük</option>
+                                <option>Kilis</option>
+                                <option>Osmaniye</option>
+                                <option>Düzce</option>
+                            </select>
+                        </div>
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Adres:</h4>
+                            <input class="form-control" required asp-for="Address">
+                        </div>
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Telefon:</h4>
+                            <input class="form-control" required asp-for="Phone">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-4"></div>
+                        <div class="form-group col-4">
+                            <button type="submit" class="btn btn-block btn-info">Kaydet</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

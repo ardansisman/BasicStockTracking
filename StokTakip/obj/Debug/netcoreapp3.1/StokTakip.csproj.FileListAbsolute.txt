@@ -1,0 +1,453 @@
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.exe
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.AssemblyInfoInputs.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.AssemblyInfo.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorAssemblyInfo.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorAssemblyInfo.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.TagHelpers.input.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.TagHelpers.output.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorCoreGenerate.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorTargetAssemblyInfo.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorTargetAssemblyInfo.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\staticwebassets\StokTakip.StaticWebAssets.Manifest.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\staticwebassets\StokTakip.StaticWebAssets.xml
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csproj.CopyComplete
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.deps.json
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.runtimeconfig.json
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.runtimeconfig.dev.json
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.pdb
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.Views.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.Views.pdb
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.Views.pdb
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.pdb
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.genruntimeconfig.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csprojAssemblyReference.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\Desktop\.NET Uygulamalar\StokTakip\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.exe
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.deps.json
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.runtimeconfig.json
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.runtimeconfig.dev.json
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.pdb
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.Views.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.Views.pdb
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csprojAssemblyReference.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.AssemblyInfoInputs.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.AssemblyInfo.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorAssemblyInfo.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorAssemblyInfo.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.TagHelpers.input.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.TagHelpers.output.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorCoreGenerate.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Create.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Update.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Create.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Index.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Update.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Update.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorTargetAssemblyInfo.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorTargetAssemblyInfo.cs
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.Views.pdb
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csproj.CopyComplete
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\staticwebassets\StokTakip.StaticWebAssets.Manifest.cache
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\staticwebassets\StokTakip.StaticWebAssets.xml
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.dll
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.pdb
+C:\Users\Atlas\Downloads\BasicStockApplicationCore-master\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.genruntimeconfig.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.exe
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.deps.json
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.runtimeconfig.json
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.runtimeconfig.dev.json
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.pdb
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.Views.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\StokTakip.Views.pdb
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csprojAssemblyReference.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.AssemblyInfoInputs.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.AssemblyInfo.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorAssemblyInfo.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorAssemblyInfo.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.TagHelpers.input.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.TagHelpers.output.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorCoreGenerate.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\User\Update.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorTargetAssemblyInfo.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.RazorTargetAssemblyInfo.cs
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.Views.pdb
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.csproj.CopyComplete
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\staticwebassets\StokTakip.StaticWebAssets.Manifest.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\staticwebassets\StokTakip.StaticWebAssets.xml
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.dll
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.pdb
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\StokTakip.genruntimeconfig.cache
+C:\Users\Atlas\Desktop\Github\BasicStockApplicationCore-master\StokTakip\obj\Debug\netcoreapp3.1\scopedcss\bundle\StokTakip.styles.css

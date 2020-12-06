@@ -1,0 +1,42 @@
+﻿@model List<Branch>
+
+<a asp-action="Create" asp-controller="Branch" class="btn btn-outline-info btn-sm my-2">
+    Yeni
+    Şube
+</a>
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-sm" id="dataTable" width="100%" cellspacing="0">
+
+            <thead>
+                <tr>
+                    <th>Ad</th>
+                    <th>Şehir</th>
+                    <th>Adres</th>
+                    <th>Telefon</th>
+                    <th>İşlem</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var branch in Model)
+                {
+                    <tr>
+                        <td>@branch.Name</td>
+                        <td>@branch.City</td>
+                        <td>@branch.Address</td>
+                        <td>@branch.Phone</td>
+
+                        <td>
+                            <a asp-action="Update" asp-controller="Branch" asp-route-id="@branch.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                            <a asp-action="Delete" asp-controller="Branch" asp-route-id="@branch.Id"  class="btn btn-primary btn-sm">Sil</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,43 @@
+﻿@model Branch
+
+<form method="post" asp-action="Update" class="p-3">
+    <input type="hidden" asp-for="Id">
+
+    <div class="row">
+        <!-- Content Column -->
+        <div class="col-12 mb-4">
+            <!-- Project Card Example -->
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Şube Güncelle </h6>
+                </div>
+                <div class="card-body">
+                    <div class="form-group row">
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Şube Adı:</h4>
+                            <input class="form-control" required asp-for="Name">
+                        </div>
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Şehir:</h4>
+                            <input class="form-control" required asp-for="City">
+                        </div>
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Adres:</h4>
+                            <input class="form-control" required asp-for="Address">
+                        </div>
+                        <div class="col-3 mb-4">
+                            <h4 class="small font-weight-bold">Telefon:</h4>
+                            <input class="form-control" required asp-for="Phone">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-4"></div>
+                        <div class="form-group col-4">
+                            <button type="submit" class="btn btn-block btn-info">Kaydet</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
